@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ziti_78",
+    "texture": "1fbc7b080",
+    "rect": [
+      978,
+      200,
+      12,
+      18
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      14,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

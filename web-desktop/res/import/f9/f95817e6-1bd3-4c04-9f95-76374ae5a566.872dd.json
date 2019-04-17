@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "tower3": {
+      "__uuid__": "b0NJqIDklPQ7WqyR6+d6Kw"
+    },
+    "tower9": {
+      "__uuid__": "482NPfDTRJc7mm3Dk6Is82"
+    },
+    "tower8": {
+      "__uuid__": "23IuHLtEBIvaMipc0ckEva"
+    },
+    "tower7": {
+      "__uuid__": "501/bEQolBLLyHVvwLE646"
+    },
+    "tower2": {
+      "__uuid__": "55SOVFZKBDu6Oi7gXVRX/s"
+    },
+    "tower1": {
+      "__uuid__": "55ZZrxzYtCFauuMbv25h9G"
+    },
+    "tower4": {
+      "__uuid__": "87ylDjdoxJqrZMisSslZWb"
+    },
+    "tower6": {
+      "__uuid__": "9dm9LDsQNEFoX8J5OvR9dT"
+    },
+    "tower5": {
+      "__uuid__": "9fCgyLRQpL+ZX0FH7c/UQy"
+    }
+  }
+}
