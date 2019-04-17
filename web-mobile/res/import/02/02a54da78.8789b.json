@@ -1,0 +1,908 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role27",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        878,
+        2,
+        77,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role22",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        1031,
+        115,
+        77,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role13",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        793,
+        115,
+        78,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role20",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        555,
+        117,
+        77,
+        113
+      ],
+      "offset": [
+        1,
+        -2
+      ],
+      "originalSize": [
+        85,
+        117
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role9",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        476,
+        125,
+        77,
+        113
+      ],
+      "offset": [
+        1,
+        -2
+      ],
+      "originalSize": [
+        85,
+        117
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role25",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        394,
+        129,
+        80,
+        121
+      ],
+      "offset": [
+        -1,
+        -1
+      ],
+      "originalSize": [
+        86,
+        123
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role2",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        561,
+        2,
+        77,
+        113
+      ],
+      "offset": [
+        1,
+        -2
+      ],
+      "originalSize": [
+        85,
+        117
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role23",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        957,
+        2,
+        77,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role24",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        952,
+        115,
+        77,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role26",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        2,
+        2,
+        75,
+        135
+      ],
+      "offset": [
+        1,
+        -1
+      ],
+      "originalSize": [
+        85,
+        137
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role5",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        799,
+        2,
+        77,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role8",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        82,
+        135,
+        76,
+        114
+      ],
+      "offset": [
+        -3,
+        -1
+      ],
+      "originalSize": [
+        86,
+        116
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role29",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        79,
+        2,
+        76,
+        131
+      ],
+      "offset": [
+        1,
+        -1
+      ],
+      "originalSize": [
+        86,
+        133
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role14",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        719,
+        2,
+        78,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "roleRes.plist",
+    "_spriteFrames": {
+      "role1": {
+        "__uuid__": "e0YMivzzlJsY43bW3G2PUz"
+      },
+      "role10": {
+        "__uuid__": "6cA8hI/Y9CertpSZCvQDKJ"
+      },
+      "role11": {
+        "__uuid__": "d6LBOO8CpEvLRbMTa6IA47"
+      },
+      "role12": {
+        "__uuid__": "abxEWxRvhAf7JM6le/oL54"
+      },
+      "role13": {
+        "__uuid__": "0453xLlA9LWpwabW4S/0is"
+      },
+      "role14": {
+        "__uuid__": "5dGROeeANNRo+oYpsNknqS"
+      },
+      "role15": {
+        "__uuid__": "a5/llcLP1BJb9X4dOubNcp"
+      },
+      "role16": {
+        "__uuid__": "b2xUccH3FJkq2u9fIWmrcb"
+      },
+      "role17": {
+        "__uuid__": "d9b1Tork9P9K4hsUaL205l"
+      },
+      "role18": {
+        "__uuid__": "fbMJIM9aZIeI0XykBKVJ1T"
+      },
+      "role19": {
+        "__uuid__": "e39PUml+5P8YGXLYIj7pcT"
+      },
+      "role2": {
+        "__uuid__": "145LxabgRG2IkTSkLJO9jE"
+      },
+      "role20": {
+        "__uuid__": "10kGD3+MtFM7WsIhX3h0hO"
+      },
+      "role21": {
+        "__uuid__": "73zhThBcdKnLZmSaGrQgHQ"
+      },
+      "role22": {
+        "__uuid__": "04SAcpmZFM5I7d6GtJIGc3"
+      },
+      "role23": {
+        "__uuid__": "166kXqvKpEH67x3mBFx2PN"
+      },
+      "role24": {
+        "__uuid__": "17Uf8+nYpAOqk+bzACv85j"
+      },
+      "role25": {
+        "__uuid__": "143ZpSpLtC8bTMcYXEWHN+"
+      },
+      "role26": {
+        "__uuid__": "1dIXaaGHFE47f12e4uEQAs"
+      },
+      "role27": {
+        "__uuid__": "01R/LHUk1Ly6GrIyuLsYX+"
+      },
+      "role28": {
+        "__uuid__": "a9fJLzOnJJyooWSFwpMbxy"
+      },
+      "role29": {
+        "__uuid__": "41sjwYXUNG3pasyh01Vtxx"
+      },
+      "role3": {
+        "__uuid__": "a7lVhmv+hEF5oV8PQnfuF5"
+      },
+      "role30": {
+        "__uuid__": "f4P9GjskNEa4ThgscQhie0"
+      },
+      "role4": {
+        "__uuid__": "fdDdDuEFNKArxT7nSEgeuZ"
+      },
+      "role5": {
+        "__uuid__": "26sZwB5V5OuqGM96XUGnn/"
+      },
+      "role6": {
+        "__uuid__": "b7v1G1CqBDr7Pb6Eh9uHyH"
+      },
+      "role7": {
+        "__uuid__": "b5+UCw33hCRqPHSJqzNWQP"
+      },
+      "role8": {
+        "__uuid__": "3e1Ela1KpJWqwwVJGW9WTW"
+      },
+      "role9": {
+        "__uuid__": "14xJ3OB3ZOKrRb5rDtvxXH"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role10",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        1110,
+        115,
+        77,
+        110
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        110
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role21",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        482,
+        2,
+        77,
+        113
+      ],
+      "offset": [
+        1,
+        -2
+      ],
+      "originalSize": [
+        85,
+        117
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role15",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        640,
+        2,
+        77,
+        113
+      ],
+      "offset": [
+        1,
+        -2
+      ],
+      "originalSize": [
+        85,
+        117
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role3",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        2,
+        139,
+        78,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role28",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        320,
+        2,
+        79,
+        125
+      ],
+      "offset": [
+        -1,
+        -1
+      ],
+      "originalSize": [
+        85,
+        127
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role12",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        1115,
+        2,
+        77,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role16",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        634,
+        117,
+        77,
+        113
+      ],
+      "offset": [
+        1,
+        -2
+      ],
+      "originalSize": [
+        85,
+        117
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role7",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        160,
+        134,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        -1
+      ],
+      "originalSize": [
+        86,
+        116
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role6",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        238,
+        134,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        -1
+      ],
+      "originalSize": [
+        86,
+        116
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role11",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        157,
+        2,
+        84,
+        130
+      ],
+      "offset": [
+        -1,
+        -1
+      ],
+      "originalSize": [
+        92,
+        132
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role17",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        713,
+        117,
+        78,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role1",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        316,
+        134,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        -1
+      ],
+      "originalSize": [
+        86,
+        116
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role19",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        243,
+        2,
+        75,
+        130
+      ],
+      "offset": [
+        1,
+        -1
+      ],
+      "originalSize": [
+        85,
+        132
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role30",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        401,
+        2,
+        79,
+        121
+      ],
+      "offset": [
+        -1,
+        -1
+      ],
+      "originalSize": [
+        85,
+        123
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role18",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        1036,
+        2,
+        77,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "role4",
+      "texture": "9b55xN9NpLxIkCdHETUNTo",
+      "rect": [
+        873,
+        115,
+        77,
+        111
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        111
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

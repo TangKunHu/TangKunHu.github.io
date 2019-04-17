@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tower1",
+    "texture": "116d2798a",
+    "rect": [
+      3,
+      612,
+      95,
+      139
+    ],
+    "offset": [
+      5.5,
+      -12.5
+    ],
+    "originalSize": [
+      112,
+      168
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

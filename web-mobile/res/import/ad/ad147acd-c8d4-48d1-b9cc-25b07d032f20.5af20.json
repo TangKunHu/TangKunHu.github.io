@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "tianliang": {
+      "__uuid__": "0dueMmzX9C27hCxFeEIhKr"
+    },
+    "tianhei": {
+      "__uuid__": "9aVyDuTGBDj7CDUhojCQNR"
+    },
+    "guaiwu": {
+      "__uuid__": "a3dPb4Pp1K7KHUyWWigp5Q"
+    },
+    "tiantianqshuliang": {
+      "__uuid__": "f4ZIFJoAFMoYhycKKDrCGN"
+    },
+    "bosscome": {
+      "__uuid__": "f2Ue1RFm1LK5gytepSmRTQ"
+    },
+    "EXPshuliang": {
+      "__uuid__": "8eoW3d9bRKgLZeoP1M2FYv"
+    },
+    "EXPjianshuliang": {
+      "__uuid__": "9cCoH9PBdBLIAQK19AJykO"
+    },
+    "tiantianquanqueshao": {
+      "__uuid__": "effDUxJG1KTparCSxVoxAR"
+    },
+    "tiantianqjia": {
+      "__uuid__": "46Js6zTZ5JCaruUatxke5c"
+    },
+    "jinbijia": {
+      "__uuid__": "7fbDOEkf9FO5ztZT8Mbrd9"
+    },
+    "EXPjian": {
+      "__uuid__": "64LwwWi/FJdaHsumy7TphM"
+    },
+    "EXPjia": {
+      "__uuid__": "a2S32/sS9EZ6RkUiuMApkh"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "role1",
+    "texture": "1f3fd3e7b",
+    "rect": [
+      737,
+      614,
+      75,
+      113
+    ],
+    "offset": [
+      1.5,
+      -1.5
+    ],
+    "originalSize": [
+      86,
+      116
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
