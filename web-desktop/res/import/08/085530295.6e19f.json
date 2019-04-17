@@ -1,0 +1,845 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0007_00007.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        814,
+        158,
+        78,
+        116
+      ],
+      "offset": [
+        2,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0016_00016.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        466,
+        2,
+        74,
+        114
+      ],
+      "offset": [
+        -2,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0020_00020.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        118,
+        2,
+        74,
+        114
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0013_00013.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        820,
+        80,
+        76,
+        114
+      ],
+      "offset": [
+        -3,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0024_00024.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        2,
+        78,
+        76,
+        114
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0001_00001.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        466,
+        156,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0014_00014.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        698,
+        2,
+        74,
+        114
+      ],
+      "offset": [
+        -3,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0018_00018.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        234,
+        2,
+        74,
+        114
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0023_00023.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        118,
+        78,
+        76,
+        114
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0008_00008.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        586,
+        78,
+        76,
+        116
+      ],
+      "offset": [
+        2,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0026_00026.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        814,
+        2,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0004_00004.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        118,
+        156,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0019_00019.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        704,
+        80,
+        76,
+        114
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "6_pf_gj.plist",
+    "_spriteFrames": {
+      "cowboy-2_0000_00000.png": {
+        "__uuid__": "9588NBIbJMSZXn9hYCGtYe"
+      },
+      "cowboy-2_0001_00001.png": {
+        "__uuid__": "5aMxVz3SxFbYsiyQbJA2hQ"
+      },
+      "cowboy-2_0002_00002.png": {
+        "__uuid__": "91t1LdjcRFwK6vvR7Rq/bB"
+      },
+      "cowboy-2_0003_00003.png": {
+        "__uuid__": "93F6QpBTRIlJP8wz+Q/o6n"
+      },
+      "cowboy-2_0004_00004.png": {
+        "__uuid__": "81UhWPUJZGUoKvoVDgdwXu"
+      },
+      "cowboy-2_0005_00005.png": {
+        "__uuid__": "fb8uY1Ct5OY4qKv+dtYkxM"
+      },
+      "cowboy-2_0006_00006.png": {
+        "__uuid__": "demrE9jpZIw6AfT2RtTYCe"
+      },
+      "cowboy-2_0007_00007.png": {
+        "__uuid__": "3evEARqwhPlLLLl8VKUpgz"
+      },
+      "cowboy-2_0008_00008.png": {
+        "__uuid__": "76m4Zs/ZRKwbRWZNOO5VZk"
+      },
+      "cowboy-2_0009_00009.png": {
+        "__uuid__": "92nN4kGu9Ie5FItuUAKKI4"
+      },
+      "cowboy-2_0010_00010.png": {
+        "__uuid__": "d8tIP4rCNO/p+8zT+HHIQ/"
+      },
+      "cowboy-2_0011_00011.png": {
+        "__uuid__": "c8X3Gr69NH4K4KaN88PNvX"
+      },
+      "cowboy-2_0012_00012.png": {
+        "__uuid__": "c5AKNp42xDM5kjXNq4ZRDQ"
+      },
+      "cowboy-2_0013_00013.png": {
+        "__uuid__": "53NndMwIJKG4J4uTlQGoyP"
+      },
+      "cowboy-2_0014_00014.png": {
+        "__uuid__": "60OxPfYz9KR5LjR2xaK2gE"
+      },
+      "cowboy-2_0015_00015.png": {
+        "__uuid__": "d9GelFt/xCKIcbjlViwXgp"
+      },
+      "cowboy-2_0016_00016.png": {
+        "__uuid__": "50vghVcXRNM4SAUU7myALp"
+      },
+      "cowboy-2_0017_00017.png": {
+        "__uuid__": "aaq85+B1xHA5cEz+d+xpMW"
+      },
+      "cowboy-2_0018_00018.png": {
+        "__uuid__": "6caBgJxv1F9KP1ohDleoGt"
+      },
+      "cowboy-2_0019_00019.png": {
+        "__uuid__": "842Nidr4BPp5dq+rqYNstW"
+      },
+      "cowboy-2_0020_00020.png": {
+        "__uuid__": "52m87+IXBB3IH8MWxrIVqV"
+      },
+      "cowboy-2_0021_00021.png": {
+        "__uuid__": "8dUTXZjkBJlYaIbUYqvLQu"
+      },
+      "cowboy-2_0022_00022.png": {
+        "__uuid__": "97DavugrRMb6iqZX1NGGTD"
+      },
+      "cowboy-2_0023_00023.png": {
+        "__uuid__": "722rqm4Y9NOJH55B5GS5Xf"
+      },
+      "cowboy-2_0024_00024.png": {
+        "__uuid__": "57wY4UJytMArid5CXy7Gfe"
+      },
+      "cowboy-2_0025_00025.png": {
+        "__uuid__": "91JOe+Eo1DULkwhsK7aJpW"
+      },
+      "cowboy-2_0026_00026.png": {
+        "__uuid__": "7ciq6iaEJBLp4zLJsWNGrE"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0021_00021.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        2,
+        2,
+        74,
+        114
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0025_00025.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        930,
+        2,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0002_00002.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        350,
+        156,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0009_00009.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        468,
+        78,
+        76,
+        116
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0003_00003.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        234,
+        156,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0000_00000.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        582,
+        156,
+        76,
+        114
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0022_00022.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        234,
+        78,
+        76,
+        114
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0017_00017.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        350,
+        2,
+        74,
+        114
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0012_00012.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        936,
+        80,
+        76,
+        114
+      ],
+      "offset": [
+        -3,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0011_00011.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        2,
+        156,
+        76,
+        114
+      ],
+      "offset": [
+        -3,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0010_00010.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        350,
+        78,
+        76,
+        116
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0015_00015.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        582,
+        2,
+        74,
+        114
+      ],
+      "offset": [
+        -2,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0006_00006.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        932,
+        158,
+        78,
+        116
+      ],
+      "offset": [
+        2,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cowboy-2_0005_00005.png",
+      "texture": "4cqRQJX3BEdYLl0bxa3HxH",
+      "rect": [
+        698,
+        158,
+        78,
+        114
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        82,
+        116
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

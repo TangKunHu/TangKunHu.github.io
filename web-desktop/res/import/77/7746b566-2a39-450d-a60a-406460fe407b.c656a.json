@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "25_pf_dj",
+    "texture": "73drCwXLlN3qFNQoW2Yb+P",
+    "rect": [
+      2,
+      3,
+      496,
+      2017
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      500,
+      2022
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
