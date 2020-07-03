@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"FirstRechargeConfig","json":{"1000":{"paydesc":"10元","pay":1000,"payReturn":4000},"2000":{"paydesc":"20元","pay":2000,"payReturn":8000},"5000":{"paydesc":"50元","pay":5000,"payReturn":20000},"10000":{"paydesc":"100元","pay":10000,"payReturn":40000}}}

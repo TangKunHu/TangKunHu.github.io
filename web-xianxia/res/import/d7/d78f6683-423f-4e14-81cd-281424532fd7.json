@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"LimitTimeConfig","json":{"1":{"taskIds":[29,30,31,32,33,34,35,38],"openZhuan":0,"time":129600,"id":1,"openLevel":60},"2":{"taskIds":[39,40,41,42,43,44,45,48],"openZhuan":0,"time":345600,"id":2,"openLevel":60},"3":{"taskIds":[49,50,51,52,53,54,55,58],"openZhuan":0,"time":691200,"id":3,"openLevel":60}}}
